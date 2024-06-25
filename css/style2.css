@@ -1,0 +1,46 @@
+h1{
+    color: rgb(187, 255, 71);
+    -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 2px;
+  font-size: 80px;
+  text-align: center;
+}
+
+html{
+    background-image: url(/public/img/neko-anime-girl-and-cats-thumb-364x205.jpg);
+}
+
+header {
+    background-color: #c9c4e8;
+     padding: 8px;
+  
+  }
+  
+  ul{
+  
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-left: 8pc;
+  }
+  
+  li {
+      display: inline;
+    margin-right: 15pc;
+  
+    
+  }
+  
+  a {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(210, 30, 144);
+  text-align: center;
+  margin: 0.5rem;
+  text-decoration: none;
+  }
+
+  div{
+    
+  }
