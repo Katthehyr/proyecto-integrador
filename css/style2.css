@@ -8,50 +8,33 @@ h1{
 
 html{
     background-image: url(/public/img/neko-anime-girl-and-cats-thumb-364x205.jpg);
+    width: 100%;
+    
 }
 
-header {
-    background-color: #c9c4e8;
-     padding: 8px;
-  
-  }
-  
-  ul{
-  
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    text-align: center;
-    margin-left: 8pc;
-  }
-  
-  li {
-      display: inline;
-    margin-right: 15pc;
-  
-    
-  }
-  
-  a {
-  font-size: 30px;
-  font-family: 'Times New Roman', Times, serif;
-  color: rgb(210, 30, 144);
-  text-align: center;
-  margin: 0.5rem;
-  text-decoration: none;
-  }
+
 
   div{
-    width: 50pc;
-    height: 350px;
-    border-radius: 20px;
-    margin-left: 20px;
+    background-color: rgb(237, 206, 91);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%; 
+    max-width: 768;
+    margin: 0 auto;
+    padding: 0.5rem;
+    border: 5px solid black;
+    border-radius: 0.5rem;
+    margin-top: auto;
+    margin-bottom: 30pc;
 }
    
 
 
   p {
-    width: 48pc;
+    
     margin-top: 10px;
     margin-left:0;
     margin-right: 15px;
@@ -64,3 +47,109 @@ header {
   h2{
     margin-top: 10px;
   }
+
+
+  header {
+    background-color: #c9c4e8;
+    text-align: center;
+    width: 100%;
+    max-width: 768px;
+    margin: auto;
+    padding: 15px;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden; 
+}
+
+nav ul li {
+    display: inline-block; 
+    margin-right: 20px;
+}
+
+nav ul li a {
+    display: block;
+    padding: 15px 20px;
+    font-size: 18px; 
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(210, 30, 144);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ffffff; 
+    background-color: rgb(16, 15, 16); 
+}
+
+@media (max-width: 768px) {
+  
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        display: block;
+        margin-bottom: 10px; 
+    }
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+   
+}
+
+
+@media (min-width: 576px) and (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    footer {
+        font-size: 11px;
+    }
+}
+ @media (max-width: 768px) {
+
+    header {
+        padding: 10px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
+
+
+@media (min-width: 576px) {
+
+    header {
+        font-size: 18px;
+    }
+
+    main {
+        padding: 30px;
+    }
+
+    footer {
+        font-size: 18px;
+    }
+}

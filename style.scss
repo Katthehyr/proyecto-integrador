@@ -1,0 +1,43 @@
+@media (min-width: 576px) and (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    footer {
+        font-size: 11px;
+    }
+}
+ @media (max-width: 768px) {
+
+    header {
+        padding: 10px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
+
+
+@media (min-width: 576px) {
+
+    header {
+        font-size: 18px;
+    }
+
+    main {
+        padding: 30px;
+    }
+
+    footer {
+        font-size: 18px;
+    }
+}
