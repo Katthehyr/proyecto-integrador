@@ -61,6 +61,13 @@ Igualmente se aspira a mejorarar el diseño con el fin de crear un diseño mas c
 
 Este proyecto fue desarrollado por Monica Katherine Hernandez Reyes
 
+Cuenta de Github https://github.com/Katthehyr
+
+Nombre de la empresa Art.KyA.World
+
+
+
+
 
 
 
