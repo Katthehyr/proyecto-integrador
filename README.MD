@@ -44,5 +44,13 @@ Surgieron complicaciones en la creacion del archivo vite.config.js debido a que 
 
 Se implemento el repositorio de git, para guardar la informacion realizada, se utiliza tanto de manera local como la rama remota.
 
+Pasos para accerder al repositorio remoto
+
+1 git init: se escribe en la consola para iniciar git
+2 git status: para conocer el estado de los archivos.
+3 git log: para revisar los commits
+4 git log --oneline: para ver mas informacion de los commits
+5
+
 
 
