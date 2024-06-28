@@ -36,7 +36,9 @@ Se realizo el index centrado en una tienda de figuras de anime, en la cual se es
 
 Adicionalmente durante la realizacion se crearon los enlaces para las diferentes paginas y que se pueda acceder a cada uno de ellos mediante el menu, con la informacion correspondiente, surgen dificultades en el momento de enlazar diferentes styles a las paginas, debido a que el comandoo utilizado no funcionaba de la manera deseada, y las ediciones del index las tomaban las demas paginas y de esta manera se enlazaban combinando la informacion.
 
-Despues de muchos intentos y actualizar la consola, se logro enlazar los archivos style a las diferentes paginas,
+Despues de muchos intentos y actualizar la consola, se logro enlazar los archivos style a las diferentes paginas; por otro lado se realizo una busqueda de imagenes relacionadas con la pagina, se buscaron 4 series diferentes, para atraer la atencion, fueron añadidas en la pagina principal para que sea mas visible.
+
+
 
 
 
