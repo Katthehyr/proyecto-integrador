@@ -29,3 +29,10 @@ Contenidos libre.
 alta.html
 
 En alta no hay que hacer nada por ahora.
+
+# TRABAJO REALIZADO
+
+Se realizo el index centrado en una tienda de figuras de anime, en la cual se establecieron 12 productos, utilizando un div class card, con el fin de que cada producto tenga un contenedor con la informacion del producto, se centro en cuatro animes diferentes y que se encuentran en el boom del momento.
+
+Adicionalmente durante la realizacion se crearon los enlaces para las diferentes paginas y que se pueda acceder a cada uno de ellos mediante el menu, con la informacion correspondiente, surgen dificultades en el momento de enlazar diferentes styles a las paginas, debido a que el comandoo utilizado no funcionaba de la manera deseada, y se enlazaban combinando la informacion.
+
