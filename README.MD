@@ -38,6 +38,8 @@ Adicionalmente durante la realizacion se crearon los enlaces para las diferentes
 
 Despues de muchos intentos y actualizar la consola, se logro enlazar los archivos style a las diferentes paginas; por otro lado se realizo una busqueda de imagenes relacionadas con la pagina, se buscaron 4 series diferentes, para atraer la atencion, fueron añadidas en la pagina principal para que sea mas visible.
 
+Se realizo la creacion del menu en cada una de las paginas, surgieron complicaciones a medida que se iban actualizando los atributos hasta lograr el resultado final.
+
 
 
 
