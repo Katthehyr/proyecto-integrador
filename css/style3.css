@@ -62,3 +62,19 @@ h1{
   font-size: 80px;
   text-align: center;
 }
+
+form {
+    background-color: rgb(41, 193, 239);
+    text-align: center;
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: center;
+     }
+
+
+input {
+padding: 8px;
+
+}
