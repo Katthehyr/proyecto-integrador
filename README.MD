@@ -57,5 +57,9 @@ Pasos para accerder al repositorio remoto
 
 Este proyecto integrador, se realiza con el fin de ir mejorando la practica en los procesos de desarrollo durante la realizacion del bootcamp fullstack, con el fin de mejorar las habilidades y demostrar lo aprendido en la primera entrega.
 
+Igualmente se aspira a mejorarar el diseño con el fin de crear un diseño mas completo y practico.
+
+
+
 
 
