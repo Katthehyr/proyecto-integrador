@@ -59,6 +59,9 @@ Este proyecto integrador, se realiza con el fin de ir mejorando la practica en l
 
 Igualmente se aspira a mejorarar el diseño con el fin de crear un diseño mas completo y practico.
 
+Este proyecto fue desarrollado por Monica Katherine Hernandez Reyes
+
+
 
 
 
