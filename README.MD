@@ -52,6 +52,9 @@ Pasos para accerder al repositorio remoto
 4 git log --oneline: para ver mas informacion de los commits
 5 git add: para añadir los archivos al repositorio
 6 git commit -m: para crear el commit
+7 git push: para subir la informacion al repositorio remoto
+
+
 
 
 
