@@ -25,13 +25,15 @@
 
     <form action="Section">
 <fieldset>
+    <legend>Informacion personal</legend>
     <label for="">Nombre</label>
     <input type="text" name="Nombre" required>
     <label for="">Apellido</label>
     <input type="text" name="Apellido" required>
 </fieldset>
 
-<fieldset>
+<fieldset style="margin-top: 10px;">
+    <legend>Informacion de contacto</legend>
     <label for="">Telefono</label>
     <input type="number" required>
     <label for="">Email</label>
@@ -40,7 +42,11 @@
 
 <fieldset>
    <label for="lbl-comentarios">Comentarios</label>
-    <textarea name="info" id="lbl-comentarios" cols="30" rows="8"></textarea>
+    <textarea name="info" id="lbl-comentarios" cols="30" rows="8" placeholder="Dejanos tus preferencias, nos esforzaremos por encontrar los productos que se adapten a tus gustos."></textarea>
+</fieldset>
+
+<fieldset>
+   
 </fieldset>
         
 <button>Enviar</button>
