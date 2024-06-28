@@ -40,7 +40,7 @@ Despues de muchos intentos y actualizar la consola, se logro enlazar los archivo
 
 Se realizo la creacion del menu en cada una de las paginas, surgieron complicaciones a medida que se iban actualizando los atributos hasta lograr el resultado final.
 
-
+Surgieron complicaciones en la creacion del archivo vite.config.js debido a que no se esta enlazando la informacion de manera adecuada, se realizo el proceso con el sass pero aun se deben realizar ajustes para que funciones de manera adecuada, utilice el responsive dentro del archivo style.scss 
 
 
 
