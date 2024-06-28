@@ -55,6 +55,7 @@ Pasos para accerder al repositorio remoto
 7 git push: para subir la informacion al repositorio remoto
 
 
+Este proyecto integrador, se realiza con el fin de ir mejorando la practica en los procesos de desarrollo durante la realizacion del bootcamp fullstack, con el fin de mejorar las habilidades y demostrar lo aprendido en la primera entrega.
 
 
 
