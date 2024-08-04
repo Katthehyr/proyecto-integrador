@@ -1,0 +1,10 @@
+{
+    "productos"[ 
+        {"id":1, "nombre": "Figura de naruto en set con las bestias", "foto": "/public/img/naruto 1.png", "descripcion": "Figura de naruto en set con las bestias con cola, completo para la coleccion.","precio": 80.000}
+        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
+        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
+        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
+        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
+        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
+    ]
+}

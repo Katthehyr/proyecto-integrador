@@ -12,6 +12,7 @@ h1{
   font-size: 260px;
   text-align: center;
   font-style: italic;
+  margin-bottom: 5px;
   
 }
 
@@ -78,6 +79,7 @@ div {
   flex-wrap: wrap;
   padding: 15px 15px 0px 13px;
   
+  
 }
 
 button {
@@ -134,4 +136,35 @@ button:hover {
   footer {
       font-size: 18px;
   }
+}
+
+
+.search-container {
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  padding: 10px 30pc;
+  font-size: 16px;
+  border: 1px solid #0a0a0a;
+  outline: none;
+  width: 300px;
+  background-color: pink;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.search-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 1px solid #0b0b0b;
+  background-color: #ee8e1f;
+  color: white;
+  cursor: pointer;
+  margin-left: -1px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.search-button:hover {
+  background-color: #f4e10e;
 }
