@@ -1,10 +1,17 @@
 {
-    "productos"[ 
-        {"id":1, "nombre": "Figura de naruto en set con las bestias", "foto": "/public/img/naruto 1.png", "descripcion": "Figura de naruto en set con las bestias con cola, completo para la coleccion.","precio": 80.000}
-        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
-        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
-        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
-        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
-        {"id":1, "nombre": "", "foto": "", "descripcion": "","precio": 80.000}
+    "productos": [
+        {"id":1, "nombre": "Figura de naruto en set con las bestias", "foto": "img/naruto 1.png", "descripcion": "Figura de naruto en set con las bestias con cola, completo para la coleccion.","precio": 80.000},
+        {"id":2, "nombre": "Personajes de Naruto Shippuden", "foto": "img/naruto 2.png", "descripcion": "Personajes del anime de Naruto para coleccionar.","precio": 100.000},
+        {"id":3, "nombre": "Set de Naruto modo sanin", "foto": "img/naruto 3.jpg", "descripcion": "Set de Naruto modo sanin, junto a los 2 grandes sapos sabios.","precio": 70.000},
+        {"id":4, "nombre": "Personajes del anime de Kimetsu no yaiba chibi", "foto": "img/kimetsu 1.jpg", "descripcion": "Personajes del anime de Kimetsu no yaiba para coleccionar version chibi.","precio": 80.000},
+        {"id":5, "nombre": "Personajes del anime de Kimetsu no yaiba normal", "foto": "img/kimetsu 2.jpg", "descripcion": "Personajes del anime de Kimetsu no yaiba para coleccionar, version normal.","precio": 100.000},
+        {"id":6, "nombre": "Personajes del anime de One piece", "foto": "img/one piece 1.jpg", "descripcion": "Personajes del anime de One piece para coleccionar.","precio": 100.000},
+        {"id":7, "nombre": "Figuras de Luffy, Ace y Sabo ", "foto": "img/one piece 2.png", "descripcion": "Figuras de Luffy, Ace y Sabo del anime de One piece, para la coleccion.","precio": 80.000},
+        {"id":8, "nombre": "Figuras de Kaijuu N° 8", "foto": "img/Kaijuu n 8 1.png", "descripcion": "Figura de Kafka Hibino del anime de Kaijuu N° 8 en su forma de kaijuu.","precio": 90.000},
+        {"id":9, "nombre": "Figura de Kikoru Shinomiya de Kaijuu N° 8", "foto": "img/Kaijuu n 8 2.png", "descripcion": "Figura de Kikoru Shinomiya del anime de Kaijuu N° 8 con su traje de ataque.","precio": 85.000},
+        {"id":10, "nombre": "Set de figuras del anime de Kaijuu N° 8", "foto": "img/kaijuu n 8 3.jpg", "descripcion": "Set de figuras del anime de Kaijuu N° 8, el 3 escuadron de autodefensa.","precio": 90.000},
+        {"id":11, "nombre": "Figura de Reno Ichikawa de Kaijuu N° 8", "foto": "img/kaijuu n 8 4.png", "descripcion": "Figura de Reno Ichikawa del anime de Kaijuu N° 8 con su traje de ataque.","precio": 85.000},
+        {"id":12, "nombre": "Figura del vicecapitan del tercer escuadron de defensa de Kaijuu N° 8", "foto": "img/kaijuu 5.png", "descripcion": "Figura del vicecapitan del tercer escuadron de defensa del anime de kaijuu N° 8.","precio": 85.000}
+    
     ]
 }
