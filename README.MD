@@ -88,7 +88,11 @@ Luego de lograr que funcionara el db.json, continue con la implementacion de Han
 
 Despues de muchos intentos, se consiguio el resultado esperado encontrando las peticiones dentro del navegador, no obstante no estaba funcionando de la manera adecuada, por lo cual se analizo durante un largo tiempo el codigo, con el fin de identificar el error, aunque se logro completar, siguio apareciendo la informacion del index, aunque la array quedo realizada de la manera solicitada.
 
+## URL local server: http://localhost:8080/Productos/
 
+## URL MockAPI: https://66b3b9c17fba54a5b7edfcbc.mockapi.io/productos/
+
+Se realizo el repositorio de json en MockAPI, siguiendo las indicaciones respectivas para su realizacion.
 
 
 
