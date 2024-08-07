@@ -1,16 +1,9 @@
-{{#each productos}}
-
-
-    <div style="width: 22pc; height: 25pc; background-color: rgba(247, 192, 91, 0.818); border-style: solid; border-color: black;" class="card">
-
-      <img style="width: 20pc; margin-left: 16px; margin-top: 10px; border-style: solid; border-color: black;" src="/public/img/naruto 1.png" alt="naruto">
-
-      <p style="font-family:Arial, Helvetica, sans-serif; text-align: center; margin-bottom: 0%;"><strong>Figura de naruto en set con las bestias con cola, completo para la coleccion.</strong></p>
+{{#each Productos}}
+  <div style="width: 22pc; height: 25pc; background-color: rgba(247, 192, 91, 0.818); border-style: solid; border-color: black;" class="card">
+  <img style="width: 20pc; margin-left: 16px; margin-top: 10px; border-style: solid; border-color: black;" src="{{foto}}" alt={{nombre}}>
+    <p style="font-family:Arial, Helvetica, sans-serif; text-align: center; margin-bottom: 0%;"><strong>{{descripcion}}</strong></p>
    
-      <button> Comprar</button>
-
-  
+    <button>´{{precio}}</button>
     </div>
-
 
 {{/each}}

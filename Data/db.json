@@ -1,5 +1,5 @@
 {
-    "productos": [
+    "Productos": [
         {"id":1, "nombre": "Figura de naruto en set con las bestias", "foto": "img/naruto 1.png", "descripcion": "Figura de naruto en set con las bestias con cola, completo para la coleccion.","precio": 80.000},
         {"id":2, "nombre": "Personajes de Naruto Shippuden", "foto": "img/naruto 2.png", "descripcion": "Personajes del anime de Naruto para coleccionar.","precio": 100.000},
         {"id":3, "nombre": "Set de Naruto modo sanin", "foto": "img/naruto 3.jpg", "descripcion": "Set de Naruto modo sanin, junto a los 2 grandes sapos sabios.","precio": 70.000},

@@ -65,7 +65,28 @@ Cuenta de Github https://github.com/Katthehyr
 
 Nombre de la empresa Art.KyA.World
 
+## Etapa dos del proyecto integrador
 
+Fecha: 07/08/2024 19hs (Nota 10) 
+Fecha: 14/08/2024 19hs (Nota 8)
+
+Implementar lo visto en clase de la etapa 2 en el proyecto integrador de cada uno. Trabajando con HandleBars. Peticiones asíncronas. 
+
+Suma extra. Si quieren implementar para practicar en alta.html el alta/baja/modificación (CRUD). 
+
+Para trabajar lo visto en HTML, CSS y JavaScript. NO REACT.
+
+# TRABAJO REALIZADO
+
+Inicialmente se desarrollo el codigo para tener una barra de busqueda en la pagina realizada, fue complicado estructurarla junto con los estilos ya establecidos.
+
+Adicionalmente empece a desarrollar el archvo db.json, con el fin de insertar los productos de la pagina, tuve complicaciones en el momento de vincular el nuevo servidor para que funcionara dentro de la data.
+
+Empece a verificar varias veces con el fin de validar la redaccion y la estructura del codigo con el fin de identificar posibles errores.
+
+Luego de lograr que funcionara el db.json, continue con la implementacion de HandleBars, inicialmente no se presentaron dificultades a excepcion de errores en el navegador que me impedia identificar la informacion de las peticiones, al final tuve que crear una peticion sencilla que me permitiera identificar el funcionamiento HandleBars.
+
+Despues de muchos intentos, se consiguio el resultado esperado encontrando las peticiones dentro del navegador, no obstante no estaba funcionando de la manera adecuada, por lo cual se analizo durante un largo tiempo el codigo, con el fin de identificar el error, aunque se logro completar, siguio apareciendo la informacion del index, aunque la array quedo realizada de la manera solicitada.
 
 
 
